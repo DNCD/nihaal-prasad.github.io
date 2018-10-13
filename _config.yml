@@ -22,6 +22,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nihaal_prasad
 github_username: nihaal-prasad
 
+disqus:
+    shortname: npsec
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hydeout
