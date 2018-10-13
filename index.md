@@ -1,0 +1,9 @@
+---
+layout: default
+title: Home
+---
+
+<div class="home">
+    <h1 class="page-heading">{{ page.title }}</h1>
+</div>
+
